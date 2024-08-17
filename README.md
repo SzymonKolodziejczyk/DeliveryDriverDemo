@@ -24,7 +24,7 @@ Here are the key features implemented in this prototype:
 - ⚡ **Speed Power Boost:** Power-ups that increase the car's speed temporarily, adding excitement to the races.
 - 🗺️ **Simple Quest System:** Engage in basic quests that enhance the gameplay and provide objectives.
 - 🌳 **2D World:** A richly detailed world featuring roads, trees, houses, and more.
-- 💥 **Collision System:** Realistic collision mechanics that affect how the car interacts with the environment.
+- 💥 **Collision System:** Collision mechanic that affects how the car interacts with the environment.
 
 ## 🚀 Evolution into Racing Madness
 
@@ -34,8 +34,11 @@ This prototype served as the foundation for a more complex and fully-featured ga
 
 Here are some screenshots showcasing the gameplay and features of the prototype:
 
-![Gameplay Screenshot](link-to-screenshot)  
+![DDD1](https://github.com/user-attachments/assets/fad8af0a-d6a0-4b8a-8b2d-c3972480e9be)
 *A top-down view of the 2D racing environment with smooth car movement and dynamic elements.*
+
+![DDD2](https://github.com/user-attachments/assets/24f4c20c-ddb7-46cc-8f6d-40dea089c8ef)
+*A whole world of this prototype.*
 
 ## 📫 Contact
 
